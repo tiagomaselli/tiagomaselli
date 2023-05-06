@@ -1,13 +1,9 @@
-<div align='center'>
+### Oi, eu sou o Tiago! 🧑‍💻
 
-# Oi, eu sou o Tiago! 🧑‍💻
-  
-</div>
-
-### Sobre mim: 
+#### Sobre mim: 
 🌱 Crescendo em Front-End<br>🏋️‍♂️ Praticando Javascript, HTML e CSS<br>🎯 Próximos objetivos: Typescript e React
 
-💻 [Visite o meu LinkedIn](https://www.linkedin.com/in/tiago-maselli-dev-front-end/)
+💻 Visite o meu [LinkedIn!](https://www.linkedin.com/in/tiago-maselli-dev-front-end/)
 
 ---
 
