@@ -5,20 +5,14 @@
 
 💻 Visite o meu [LinkedIn!](https://www.linkedin.com/in/tiago-maselli-dev-front-end/)
 
----
-
-<div align='center'>
-  
-![](https://github-readme-stats.vercel.app/api?username=tiagomaselli&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tiagomaselli&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomaselli&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-  
+<div align="center">
+  <a href="https://github.com/tiagomaselli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagomaselli&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomaselli&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-
----
-
-<div align='right'>
-
-[![](https://visitcount.itsvg.in/api?id=tiagomaselli&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<br>
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=tiagomaselli&label=Profile%20Views&color=12&icon=5&pretty=false" />
+  </a>
 </div>
