@@ -1,7 +1,7 @@
 ### Oi, eu sou o Tiago! 🧑‍💻
 
 #### Sobre mim: 
-🌱 Crescendo em Front-End<br>🏋️‍♂️ Praticando Javascript, HTML e CSS<br>🎯 Próximos objetivos: Typescript e React
+🌱 Crescendo em Front-End<br>🏋️‍♂️ Praticando Javascript, HTML e CSS<br>💾 Noções em PHP, MySQL, JQuery<br>🎯 Próximos objetivos: Typescript e React
 
 💻 Visite o meu [LinkedIn!](https://www.linkedin.com/in/tiago-maselli-dev-front-end/)
 
